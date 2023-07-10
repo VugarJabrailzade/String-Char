@@ -1,0 +1,15 @@
+C:\Users\vcebr\OneDrive\Desktop\String-Char\task_strn2\task_strn2\bin\Debug\net6.0\task_strn2.exe
+C:\Users\vcebr\OneDrive\Desktop\String-Char\task_strn2\task_strn2\bin\Debug\net6.0\task_strn2.deps.json
+C:\Users\vcebr\OneDrive\Desktop\String-Char\task_strn2\task_strn2\bin\Debug\net6.0\task_strn2.runtimeconfig.json
+C:\Users\vcebr\OneDrive\Desktop\String-Char\task_strn2\task_strn2\bin\Debug\net6.0\task_strn2.dll
+C:\Users\vcebr\OneDrive\Desktop\String-Char\task_strn2\task_strn2\bin\Debug\net6.0\task_strn2.pdb
+C:\Users\vcebr\OneDrive\Desktop\String-Char\task_strn2\task_strn2\obj\Debug\net6.0\task_strn2.csproj.AssemblyReference.cache
+C:\Users\vcebr\OneDrive\Desktop\String-Char\task_strn2\task_strn2\obj\Debug\net6.0\task_strn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcebr\OneDrive\Desktop\String-Char\task_strn2\task_strn2\obj\Debug\net6.0\task_strn2.AssemblyInfoInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\String-Char\task_strn2\task_strn2\obj\Debug\net6.0\task_strn2.AssemblyInfo.cs
+C:\Users\vcebr\OneDrive\Desktop\String-Char\task_strn2\task_strn2\obj\Debug\net6.0\task_strn2.csproj.CoreCompileInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\String-Char\task_strn2\task_strn2\obj\Debug\net6.0\task_strn2.dll
+C:\Users\vcebr\OneDrive\Desktop\String-Char\task_strn2\task_strn2\obj\Debug\net6.0\refint\task_strn2.dll
+C:\Users\vcebr\OneDrive\Desktop\String-Char\task_strn2\task_strn2\obj\Debug\net6.0\task_strn2.pdb
+C:\Users\vcebr\OneDrive\Desktop\String-Char\task_strn2\task_strn2\obj\Debug\net6.0\task_strn2.genruntimeconfig.cache
+C:\Users\vcebr\OneDrive\Desktop\String-Char\task_strn2\task_strn2\obj\Debug\net6.0\ref\task_strn2.dll
